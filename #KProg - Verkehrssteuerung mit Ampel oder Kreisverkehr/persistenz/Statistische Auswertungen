@@ -1,0 +1,570 @@
+
+
+-----------------------------------------------
+05.12.2016 13:57
+Szenario 4: Ampel-Kreisv.
+-----------------------------------------------
+
+Station Typ: RoundaboutStation_2
+Anzahl der behandelten Objekte: 15
+Zeit zum Behandeln aller Objekte: 16
+Durchnittliche Behandlungsdauer: 1
+Durchnittliche Wartezeit/Auto: 5.8
+Längste Warteschlange an dieser Station : 3
+
+Station Typ: TrafficLightStation_1
+Anzahl der behandelten Objekte: 12
+Zeit zum Behandeln aller Objekte: 12
+Durchnittliche Behandlungsdauer/auto: 1
+Durchnittliche Wartezeit/Auto : 15.75
+Längste Warteschlange an dieser Station : 3
+
+Objekt: Objekt_1
+Gesamte Wartezeit des Objekts: 6.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 3.0
+
+Objekt: Objekt_2
+Gesamte Wartezeit des Objekts: 9.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 4.5
+
+Objekt: Objekt_7
+Gesamte Wartezeit des Objekts: 6.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 3.0
+
+Objekt: Objekt_8
+Gesamte Wartezeit des Objekts: 8.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 4.0
+
+Objekt: Objekt_13
+Gesamte Wartezeit des Objekts: 5.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 5.0
+
+Objekt: Objekt_4
+Gesamte Wartezeit des Objekts: 21.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 10.5
+
+Objekt: Objekt_14
+Gesamte Wartezeit des Objekts: 8.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 8.0
+
+Objekt: Objekt_15
+Gesamte Wartezeit des Objekts: 6.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 6.0
+
+Objekt: Objekt_16
+Gesamte Wartezeit des Objekts: 4.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 4.0
+
+Objekt: Objekt_9
+Gesamte Wartezeit des Objekts: 20.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 10.0
+
+Objekt: Objekt_3
+Gesamte Wartezeit des Objekts: 32.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 16.0
+
+Objekt: Objekt_5
+Gesamte Wartezeit des Objekts: 33.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 16.5
+
+Objekt: Objekt_11
+Gesamte Wartezeit des Objekts: 21.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 10.5
+
+Objekt: Objekt_10
+Gesamte Wartezeit des Objekts: 28.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 14.0
+
+Objekt: Objekt_6
+Gesamte Wartezeit des Objekts: 36.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 18.0
+
+Objekt: Objekt_12
+Gesamte Wartezeit des Objekts: 33.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 16.5
+
+Durchschnittliche Gesamtwartezeit eines Autos auf der ganzen Strecke : 17.0
+
+-----------------------------------------------
+05.12.2016 13:59
+Szenario 1: Ampel-Ampel
+-----------------------------------------------
+
+Station Typ: TrafficLightStation_1
+Anzahl der behandelten Objekte: 3
+Zeit zum Behandeln aller Objekte: 3
+Durchnittliche Behandlungsdauer/auto: 1
+Durchnittliche Wartezeit/Auto : 10.666666666666666
+Längste Warteschlange an dieser Station : 3
+
+Station Typ: TrafficLightStation_2
+Anzahl der behandelten Objekte: 3
+Zeit zum Behandeln aller Objekte: 3
+Durchnittliche Behandlungsdauer/auto: 1
+Durchnittliche Wartezeit/Auto : 13.0
+Längste Warteschlange an dieser Station : 3
+
+Objekt: Objekt_1
+Gesamte Wartezeit des Objekts: 21.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 10.5
+
+Objekt: Objekt_2
+Gesamte Wartezeit des Objekts: 24.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 12.0
+
+Objekt: Objekt_3
+Gesamte Wartezeit des Objekts: 26.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 13.0
+
+Durchschnittliche Gesamtwartezeit eines Autos auf der ganzen Strecke : 23.0
+
+-----------------------------------------------
+05.12.2016 14:01
+Szenario 1: Ampel-Ampel
+-----------------------------------------------
+
+Station Typ: TrafficLightStation_1
+Anzahl der behandelten Objekte: 1
+Zeit zum Behandeln aller Objekte: 1
+Durchnittliche Behandlungsdauer/auto: 1
+Durchnittliche Wartezeit/Auto : 11.0
+Längste Warteschlange an dieser Station : 1
+
+Station Typ: TrafficLightStation_2
+Anzahl der behandelten Objekte: 1
+Zeit zum Behandeln aller Objekte: 1
+Durchnittliche Behandlungsdauer/auto: 1
+Durchnittliche Wartezeit/Auto : 13.0
+Längste Warteschlange an dieser Station : 1
+
+Objekt: Objekt_1
+Gesamte Wartezeit des Objekts: 24.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 12.0
+
+Durchschnittliche Gesamtwartezeit eines Autos auf der ganzen Strecke : 24.0
+
+-----------------------------------------------
+05.12.2016 14:05
+Szenario 2:  Kreisv.-Kreisv.
+-----------------------------------------------
+
+Station Typ: RoundaboutStation_1
+Anzahl der behandelten Objekte: 12
+Zeit zum Behandeln aller Objekte: 36
+Durchnittliche Behandlungsdauer: 3
+Durchnittliche Wartezeit/Auto: 14.5
+Längste Warteschlange an dieser Station : 3
+
+Station Typ: RoundaboutStation_2
+Anzahl der behandelten Objekte: 16
+Zeit zum Behandeln aller Objekte: 16
+Durchnittliche Behandlungsdauer: 1
+Durchnittliche Wartezeit/Auto: 8.125
+Längste Warteschlange an dieser Station : 4
+
+Objekt: Objekt_1
+Gesamte Wartezeit des Objekts: 9.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 4.5
+
+Objekt: Objekt_2
+Gesamte Wartezeit des Objekts: 15.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 7.5
+
+Objekt: Objekt_4
+Gesamte Wartezeit des Objekts: 11.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 5.5
+
+Objekt: Objekt_13
+Gesamte Wartezeit des Objekts: 3.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 3.0
+
+Objekt: Objekt_3
+Gesamte Wartezeit des Objekts: 25.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 12.5
+
+Objekt: Objekt_15
+Gesamte Wartezeit des Objekts: 3.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 3.0
+
+Objekt: Objekt_5
+Gesamte Wartezeit des Objekts: 26.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 13.0
+
+Objekt: Objekt_16
+Gesamte Wartezeit des Objekts: 6.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 6.0
+
+Objekt: Objekt_8
+Gesamte Wartezeit des Objekts: 20.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 10.0
+
+Objekt: Objekt_7
+Gesamte Wartezeit des Objekts: 27.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 13.5
+
+Objekt: Objekt_6
+Gesamte Wartezeit des Objekts: 29.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 14.5
+
+Objekt: Objekt_14
+Gesamte Wartezeit des Objekts: 19.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 19.0
+
+Objekt: Objekt_11
+Gesamte Wartezeit des Objekts: 23.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 11.5
+
+Objekt: Objekt_9
+Gesamte Wartezeit des Objekts: 32.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 16.0
+
+Objekt: Objekt_10
+Gesamte Wartezeit des Objekts: 30.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 15.0
+
+Objekt: Objekt_12
+Gesamte Wartezeit des Objekts: 26.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 13.0
+
+Durchschnittliche Gesamtwartezeit eines Autos auf der ganzen Strecke : 19.0
+
+-----------------------------------------------
+05.12.2016 14:16
+Szenario 3: Kreisv.-Ampel
+-----------------------------------------------
+
+Station Typ: RoundaboutStation_1
+Anzahl der behandelten Objekte: 12
+Zeit zum Behandeln aller Objekte: 11
+Durchnittliche Behandlungsdauer: 0
+Durchnittliche Wartezeit/Auto: 7.333333333333333
+Längste Warteschlange an dieser Station : 3
+
+Station Typ: TrafficLightStation_2
+Anzahl der behandelten Objekte: 16
+Zeit zum Behandeln aller Objekte: 16
+Durchnittliche Behandlungsdauer/auto: 1
+Durchnittliche Wartezeit/Auto : 17.25
+Längste Warteschlange an dieser Station : 5
+
+Objekt: Objekt_1
+Gesamte Wartezeit des Objekts: 6.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 3.0
+
+Objekt: Objekt_2
+Gesamte Wartezeit des Objekts: 9.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 4.5
+
+Objekt: Objekt_4
+Gesamte Wartezeit des Objekts: 9.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 4.5
+
+Objekt: Objekt_3
+Gesamte Wartezeit des Objekts: 19.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 9.5
+
+Objekt: Objekt_7
+Gesamte Wartezeit des Objekts: 16.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 8.0
+
+Objekt: Objekt_8
+Gesamte Wartezeit des Objekts: 18.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 9.0
+
+Objekt: Objekt_6
+Gesamte Wartezeit des Objekts: 22.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 11.0
+
+Objekt: Objekt_16
+Gesamte Wartezeit des Objekts: 10.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 10.0
+
+Objekt: Objekt_15
+Gesamte Wartezeit des Objekts: 12.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 12.0
+
+Objekt: Objekt_12
+Gesamte Wartezeit des Objekts: 20.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 10.0
+
+Objekt: Objekt_11
+Gesamte Wartezeit des Objekts: 28.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 14.0
+
+Objekt: Objekt_5
+Gesamte Wartezeit des Objekts: 39.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 19.5
+
+Objekt: Objekt_9
+Gesamte Wartezeit des Objekts: 36.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 18.0
+
+Objekt: Objekt_13
+Gesamte Wartezeit des Objekts: 30.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 30.0
+
+Objekt: Objekt_10
+Gesamte Wartezeit des Objekts: 45.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 22.5
+
+Objekt: Objekt_14
+Gesamte Wartezeit des Objekts: 45.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 45.0
+
+Durchschnittliche Gesamtwartezeit eines Autos auf der ganzen Strecke : 22.0
+
+
+-----------------------------------------------
+12.01.2017 18:33
+Szenario 2:  Kreisv.-Kreisv.
+-----------------------------------------------
+
+Station Typ: RoundaboutStation_1
+Anzahl der behandelten Objekte: 12
+Zeit zum Behandeln aller Objekte: 44
+Durchnittliche Behandlungsdauer: 3
+Durchnittliche Wartezeit/Auto: 14.5
+Längste Warteschlange an dieser Station : 3
+
+Station Typ: RoundaboutStation_2
+Anzahl der behandelten Objekte: 16
+Zeit zum Behandeln aller Objekte: 13
+Durchnittliche Behandlungsdauer: 0
+Durchnittliche Wartezeit/Auto: 8.1875
+Längste Warteschlange an dieser Station : 4
+
+Objekt: Objekt_1
+Gesamte Wartezeit des Objekts: 9.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 4.5
+
+Objekt: Objekt_2
+Gesamte Wartezeit des Objekts: 15.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 7.5
+
+Objekt: Objekt_4
+Gesamte Wartezeit des Objekts: 11.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 5.5
+
+Objekt: Objekt_13
+Gesamte Wartezeit des Objekts: 3.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 3.0
+
+Objekt: Objekt_15
+Gesamte Wartezeit des Objekts: 4.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 4.0
+
+Objekt: Objekt_5
+Gesamte Wartezeit des Objekts: 21.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 10.5
+
+Objekt: Objekt_8
+Gesamte Wartezeit des Objekts: 20.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 10.0
+
+Objekt: Objekt_16
+Gesamte Wartezeit des Objekts: 7.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 7.0
+
+Objekt: Objekt_7
+Gesamte Wartezeit des Objekts: 22.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 11.0
+
+Objekt: Objekt_3
+Gesamte Wartezeit des Objekts: 34.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 17.0
+
+Objekt: Objekt_6
+Gesamte Wartezeit des Objekts: 28.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 14.0
+
+Objekt: Objekt_9
+Gesamte Wartezeit des Objekts: 27.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 13.5
+
+Objekt: Objekt_14
+Gesamte Wartezeit des Objekts: 20.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 20.0
+
+Objekt: Objekt_10
+Gesamte Wartezeit des Objekts: 30.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 15.0
+
+Objekt: Objekt_11
+Gesamte Wartezeit des Objekts: 28.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 14.0
+
+Objekt: Objekt_12
+Gesamte Wartezeit des Objekts: 26.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 13.0
+
+Durchschnittliche Gesamtwartezeit eines Autos auf der ganzen Strecke : 19.0
+
+-----------------------------------------------
+12.01.2017 18:44
+Szenario 2:  Kreisv.-Kreisv.
+-----------------------------------------------
+
+Station Typ: RoundaboutStation_1
+Anzahl der behandelten Objekte: 12
+Zeit zum Behandeln aller Objekte: 44
+Durchnittliche Behandlungsdauer: 3
+Durchnittliche Wartezeit/Auto: 14.75
+Längste Warteschlange an dieser Station : 3
+
+Station Typ: RoundaboutStation_2
+Anzahl der behandelten Objekte: 16
+Zeit zum Behandeln aller Objekte: 14
+Durchnittliche Behandlungsdauer: 0
+Durchnittliche Wartezeit/Auto: 8.125
+Längste Warteschlange an dieser Station : 4
+
+Objekt: Objekt_1
+Gesamte Wartezeit des Objekts: 9.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 4.5
+
+Objekt: Objekt_4
+Gesamte Wartezeit des Objekts: 11.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 5.5
+
+Objekt: Objekt_2
+Gesamte Wartezeit des Objekts: 15.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 7.5
+
+Objekt: Objekt_13
+Gesamte Wartezeit des Objekts: 3.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 3.0
+
+Objekt: Objekt_3
+Gesamte Wartezeit des Objekts: 25.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 12.5
+
+Objekt: Objekt_15
+Gesamte Wartezeit des Objekts: 3.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 3.0
+
+Objekt: Objekt_8
+Gesamte Wartezeit des Objekts: 21.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 10.5
+
+Objekt: Objekt_16
+Gesamte Wartezeit des Objekts: 6.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 6.0
+
+Objekt: Objekt_5
+Gesamte Wartezeit des Objekts: 26.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 13.0
+
+Objekt: Objekt_7
+Gesamte Wartezeit des Objekts: 27.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 13.5
+
+Objekt: Objekt_6
+Gesamte Wartezeit des Objekts: 30.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 15.0
+
+Objekt: Objekt_11
+Gesamte Wartezeit des Objekts: 23.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 11.5
+
+Objekt: Objekt_14
+Gesamte Wartezeit des Objekts: 19.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 19.0
+
+Objekt: Objekt_12
+Gesamte Wartezeit des Objekts: 26.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 13.0
+
+Objekt: Objekt_9
+Gesamte Wartezeit des Objekts: 32.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 16.0
+
+Objekt: Objekt_10
+Gesamte Wartezeit des Objekts: 31.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 15.5
+
+Durchschnittliche Gesamtwartezeit eines Autos auf der ganzen Strecke : 19.0
+
+-----------------------------------------------
+16.01.2017 16:51
+Szenario 4: Ampel-Kreisv.
+-----------------------------------------------
+
+Station Typ: RoundaboutStation_2
+Anzahl der behandelten Objekte: 16
+Zeit zum Behandeln aller Objekte: 15
+Durchnittliche Behandlungsdauer: 0
+Durchnittliche Wartezeit/Auto: 6.8125
+Längste Warteschlange an dieser Station : 4
+
+Station Typ: TrafficLightStation_1
+Anzahl der behandelten Objekte: 12
+Zeit zum Behandeln aller Objekte: 10
+Durchnittliche Behandlungsdauer/auto: 0
+Durchnittliche Wartezeit/Auto : 14.666666666666666
+Längste Warteschlange an dieser Station : 3
+
+Objekt: Objekt_1
+Gesamte Wartezeit des Objekts: 6.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 3.0
+
+Objekt: Objekt_7
+Gesamte Wartezeit des Objekts: 5.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 2.5
+
+Objekt: Objekt_4
+Gesamte Wartezeit des Objekts: 16.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 8.0
+
+Objekt: Objekt_2
+Gesamte Wartezeit des Objekts: 20.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 10.0
+
+Objekt: Objekt_13
+Gesamte Wartezeit des Objekts: 6.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 6.0
+
+Objekt: Objekt_16
+Gesamte Wartezeit des Objekts: 4.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 4.0
+
+Objekt: Objekt_15
+Gesamte Wartezeit des Objekts: 6.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 6.0
+
+Objekt: Objekt_14
+Gesamte Wartezeit des Objekts: 8.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 8.0
+
+Objekt: Objekt_9
+Gesamte Wartezeit des Objekts: 20.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 10.0
+
+Objekt: Objekt_5
+Gesamte Wartezeit des Objekts: 28.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 14.0
+
+Objekt: Objekt_8
+Gesamte Wartezeit des Objekts: 22.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 11.0
+
+Objekt: Objekt_3
+Gesamte Wartezeit des Objekts: 37.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 18.5
+
+Objekt: Objekt_6
+Gesamte Wartezeit des Objekts: 31.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 15.5
+
+Objekt: Objekt_11
+Gesamte Wartezeit des Objekts: 21.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 10.5
+
+Objekt: Objekt_10
+Gesamte Wartezeit des Objekts: 27.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 13.5
+
+Objekt: Objekt_12
+Gesamte Wartezeit des Objekts: 28.0
+Durchschnittliche Wartezeit an der Stationen auf der gesamten Strecke : 14.0
+
+Durchschnittliche Gesamtwartezeit eines Autos auf der ganzen Strecke : 17.0

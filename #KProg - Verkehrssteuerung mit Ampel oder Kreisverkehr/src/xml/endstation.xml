@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<settings>
+	<end_station>
+		<label>End_Station</label>
+		<x_position>1100</x_position>
+		<y_position>90</y_position>
+		<view>
+			<image>endstation.png</image>
+		</view>
+	</end_station>
+</settings>

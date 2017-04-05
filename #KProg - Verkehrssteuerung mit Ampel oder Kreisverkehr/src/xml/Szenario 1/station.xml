@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<settings>
+	<station>
+		<label>TrafficLightStation_1</label>
+		<inqueues>4</inqueues>
+		<outqueues>4</outqueues>
+		<troughput>1</troughput>
+		<x_position>250</x_position>
+		<y_position>90</y_position>
+		<view>
+			<image>station.png</image>
+		</view>
+	</station>
+	<station>
+		<label>TrafficLightStation_2</label>
+		<inqueues>4</inqueues>
+		<outqueues>4</outqueues>
+		<troughput>1</troughput>
+		<x_position>550</x_position>
+		<y_position>90</y_position>
+		<view>
+			<image>station.png</image>
+		</view>
+	</station>
+</settings>

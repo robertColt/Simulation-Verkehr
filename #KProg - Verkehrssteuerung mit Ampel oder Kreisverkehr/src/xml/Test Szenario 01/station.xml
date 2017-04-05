@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<settings>
+	<station>
+		<label>Station_1</label>
+		<inqueues>3</inqueues>
+		<troughput>2</troughput>
+		<x_position>300</x_position>
+		<y_position>150</y_position>
+		<view>
+			<image>station.png</image>
+		</view>
+	</station>
+</settings>

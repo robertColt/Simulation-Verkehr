@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<settings>
+	<start_station>
+		<label>Start_Station</label>
+		<x_position>20</x_position>
+		<y_position>300</y_position>
+		<view>
+			<image>startstation.png</image>
+		</view>
+	</start_station>
+</settings>

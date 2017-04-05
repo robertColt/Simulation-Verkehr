@@ -1,0 +1,11 @@
+{"label":"Szenario 2:  Kreisv.-Kreisv.","statistics":[{"avgWaitingTime":10}]}
+{"label":"Szenario 3: Kreisv.-Ampel","statistics":[{"avgWaitingTime":20}]}
+{"label":"Szenario 4: Ampel-Kreisv.","statistics":[{"avgWaitingTime":17}]}
+{"label":"Szenario 1: Ampel-Ampel","statistics":[{"avgWaitingTime":23}]}
+{"label":"Szenario 1: Ampel-Ampel","statistics":[{"avgWaitingTime":24}]}
+{"label":"Szenario 2:  Kreisv.-Kreisv.","statistics":[{"avgWaitingTime":19}]}
+{"label":"Szenario 3: Kreisv.-Ampel","statistics":[{"avgWaitingTime":22}]}
+{"label":"Szenario 2:  Kreisv.-Kreisv.","statistics":[{"avgWaitingTime":19}]}
+{"label":"Szenario 2:  Kreisv.-Kreisv.","statistics":[{"avgWaitingTime":19}]}
+{"label":"Szenario 2:  Kreisv.-Kreisv.","statistics":[{"avgWaitingTime":19}]}
+{"label":"Szenario 4: Ampel-Kreisv.","statistics":[{"avgWaitingTime":17}]}
